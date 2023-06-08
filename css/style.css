@@ -1,0 +1,270 @@
+body {
+    font-family: 'Poppins', sans-serif
+}
+
+.m_button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px
+}
+
+.m_style1 {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.m_style2 {
+    background-color: green;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.m_style10 {
+    font-size: 16;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.m_style12 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px
+}
+
+td a {
+    margin: 0 auto;
+    display: block;
+    text-align: center
+}
+
+p {
+    margin: 0px 0px 25px;
+    padding: 0;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: justify;
+    color: #2c2b2b
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 0;
+    padding: 0
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 15px
+}
+
+h6 {
+    margin: 0px 0px 15px;
+    font-size: 14px;
+    font-weight: 600
+}
+
+h4 {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0px 0px 20px
+}
+
+p a {
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-size: 13px
+}
+
+thead .m_logo img {
+    width: auto;
+    margin: 0 auto;
+    padding: 0;
+    display: block
+}
+
+table {
+    background: #ffff;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: block;
+    object-fit: contain;
+    object-position: center
+}
+
+h4.m_happy {
+    margin: 10px 0px 5px;
+    font-size: 16px;
+    font-weight: 800
+}
+
+thead .m_logo {
+    background: #fff;
+    display: block;
+    margin: 0;
+    padding: 5px 0px
+}
+
+thead .m_logo a {
+    border: unset;
+    margin: 0;
+    padding: 0;
+    background: #fff
+}
+
+thead th {
+    margin: 0;
+    padding: 0
+}
+
+td.m_witeboxsec {
+    background: #1a7f3a;
+    margin: 0 auto 15px;
+    display: block;
+    width: 95%;
+    padding: 20px 15px;
+    color: #fff;
+    border-radius: 20px
+}
+
+thead th a {
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    overflow: hidden
+}
+
+td.m_witeboxsec h1 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    padding: 0px 10px
+}
+
+td.m_witeboxsec h4 {
+    font-size: 15px;
+    margin: 0px 10px 0px;
+    font-weight: 500;
+    line-height: 28px
+}
+
+td.m_witeboxsec h3 {
+    font-size: 13px;
+    margin: 0px 0px 0px;
+    font-weight: 700
+}
+
+tfoot a.m_logo {
+    width: max-content;
+    text-align: left;
+    margin: 0px 0px 10px;
+    display: inline-block;
+    padding: 5px;
+    background: #f5f8ff;
+    border-radius: 56px;
+    padding-right: 20px
+}
+
+tfoot {
+    background: #000206;
+    border-radius: 20px;
+    margin: 0px;
+    border: unset;
+    display: block;
+    padding: 20px 20px
+}
+
+tfoot td table {
+    padding: 0;
+    background: unset
+}
+
+a.m_btnclick {
+    background: #1a7f3a;
+    width: max-content;
+    padding: 10px 30px;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+h3 {
+    font-size: 16px;
+    margin: 0px 0px 20px
+}
+
+h6.m_th {
+    margin: 0;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 0px 20px
+}
+
+h6.m_th span {
+    font-weight: 700;
+    font-size: 18px;
+    margin: 5px 0px 40px;
+    display: block
+}
+
+tfoot ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    text-align: right
+}
+
+tfoot ul li {
+    display: inline-block;
+    margin: 0
+}
+
+tfoot ul li a img {
+    width: 20px;
+    height: 20px;
+    display: inline-block
+}
+
+tfoot a.m_logo img {
+    width: 170px
+}
+
+.m_cheackbox {
+    font-size: 20px;
+    display: block;
+    margin: 0 auto;
+    text-align: left;
+    font-weight: 600;
+    margin-bottom: 10px
+}
